@@ -1,9 +1,13 @@
 import React from 'react'
 
+import "./board.css"
+
 const Board = () => {
 
     return (
-        <h1>There would be board</h1>
+        <div className="board-frame">
+            
+        </div>
     )
 }
 

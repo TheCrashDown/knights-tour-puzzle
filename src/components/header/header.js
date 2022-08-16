@@ -1,8 +1,10 @@
 import React from 'react'
 
+import "./header.css"
+
 const Header = () => {
     return (
-        <h1>Knight's tour puzzle</h1>
+        <h1 className="app-header">Knight's tour puzzle</h1>
     )
 }
 
